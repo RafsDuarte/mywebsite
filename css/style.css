@@ -1,0 +1,22 @@
+/* Style.css */
+* { margin:0; padding: 0; }
+footer { background-color: #222; min-height: 180px; color:#999; padding-top:40px; }
+header { background-color: #000; }
+nav { min-height: 90px; margin-bottom: 0 !important;  }
+
+#main { padding: 50px; background: linear-gradient(135deg, #35b8b0 0%,#1c799d 100%);  }
+#main img  { max-height: 400px; }
+#middle { margin: 50px 0; }
+#logo { margin:20px 0;}
+#navegar { margin: 50px 0;}
+#sobre {margin: 50px 0;  }
+#img-sobre {width: 33%;}
+#sobre p { text-align: justify; color: black; font-size: 18px; line-height: 1.8; padding-top:20px;}
+
+.lista_footer { margin-top:35px; justify-content: center; }
+.lista_footer a {width: 100%; }
+.caption {width: 33%;}
+.link_menu { margin-top:20px; }
+.link_menu a{ color: red !important; padding:10px;  }
+.link_menu a:hover{ background-color: red !important; color:#111 !important; }
+.center { text-align: center }
