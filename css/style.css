@@ -14,7 +14,6 @@ nav { min-height: 90px; margin-bottom: 0 !important;  }
 #sobre p { text-align: justify; color: black; font-size: 18px; line-height: 1.8; padding-top:20px;}
 
 .lista_footer { margin-top:35px; justify-content: center; }
-.lista_footer a {width: 100%; }
 .caption {width: 33%;}
 .link_menu { margin-top:20px; }
 .link_menu a{ color: red !important; padding:10px;  }

@@ -1,3 +1,5 @@
+<title>Summer Game Fest 2021</title>
+
 <div id="main">
 	<div class="container">
 		<div class="row">
@@ -6,7 +8,7 @@
 			</div>
 
 			<div class="col-md-7 col-xs-12">
-				<h1>Summer Game Fest 2021!</h1>
+				<h1>Summer Game Fest 2021</h1>
 				<p>O Summer Game Fest contará com uma lista de shows ao vivo digitais -- incluindo um espetacular show ao vivo de Kickoff em 10 de junho, apresentado por Geoff Keighley, repleto de estreias mundiais, uma performance do Weezer, e Days of the Devs com iam8Bit e Double Fine. O show do Kickoff será seguido por uma série de eventos de editores de jogos e plataformas.
 
 </p>

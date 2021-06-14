@@ -4,7 +4,7 @@
 			<div class="col-md-1"><center><a href="#"><img id="logo" sizes= "32x32" src="img/logo.jpg"></a></center></div>
 			<div class="col-md-1 lista_footer"><center><a href="?i=home">Home</a></center></div>
 			<div class="col-md-1 lista_footer"><center><a href="?i=sobre">Sobre o Site</a></center></div>
-			<div class="col-md-1 lista_footer"><center><a href="?i=navegar">Contato</a></center></div>
+			<div class="col-md-1 lista_footer"><center><a href="?i=contato">Contato</a></center></div>
 		</div>
 		<div class="row">
 			<div class="col-md-12">
